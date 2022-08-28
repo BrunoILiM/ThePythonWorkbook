@@ -2,7 +2,7 @@
 #Compute the area of a field, reporting in acres
 #
 
-#We start the SquareFeetPerAcre constant with the value of how many feet there are in a acre
+#Initialize the SquareFeetPerAcre constant with the value of how many feet there are in a acre
 SQUARE_FEET_PER_ACRE=43,560
 
 #Read the input values from the user

@@ -4,5 +4,6 @@
 
 #Read the input value from the user
 name=input("Write your name ")
+
 #Print the greeting messagge
 print("Hello",name)
